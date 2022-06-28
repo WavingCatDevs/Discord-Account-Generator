@@ -1,0 +1,14 @@
+{
+  "name": "discord-account-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WavingCat",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.3.0"
+  }
+}
