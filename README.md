@@ -1,6 +1,6 @@
 # Discord Account Generator
 
-### NOTE: This does NOT have captcha bypass, I am planning on adding it though.
+### NOTE: This does NOT have captcha bypass, But I am planning on adding it soon.
 
 <hr />
 
