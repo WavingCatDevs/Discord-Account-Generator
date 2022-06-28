@@ -9,5 +9,7 @@ Install the [Mozilla gecko driver](https://github.com/mozilla/geckodriver/releas
 Place it somewhere you will remember & add the location to the PATH 
 
 `git clone https://github.com/WavingCatDevs/Discord-Account-Generator.git`
+<br />
 `yarn`
+<br />
 `node index.js`
